@@ -1,0 +1,18 @@
+# Secrets : ne JAMAIS les pousser sur GitHub
+.env
+# Environnement Python
+.venv/
+__pycache
+__/
+*.pyc
+.pytest
+_
+cache/
+# Données et journaux générés
+data/
+logs/
+# Système
+.DS
+Store
+_
+.vscode/
